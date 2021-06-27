@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f58a749-8ec6-4da4-b3f3-555471d99197" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/Auth/Auth.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/Auth/ProtectedRoute.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/pages/Home/Home.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/template.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +29,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/template" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624804734634</updated>
       <workItem from="1624804736320" duration="220000" />
-      <workItem from="1624805003785" duration="1247000" />
+      <workItem from="1624805003785" duration="2465000" />
     </task>
     <servers />
   </component>

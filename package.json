@@ -1,10 +1,10 @@
 {
   "name": "cra-template-dsh3pherd",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/A-Sh3pherd/cra-template-dsh3pherd",
-    "directory": "template"
+    "url": "https://github.com/A-Sh3pherd/cra-template-dsh3pherd"
   },
   "devDependencies": {
     "@types/bootstrap": "^5.0.16",
@@ -29,7 +29,24 @@
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2"
   },
-  "license": "MIT",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "keywords": [
     "react",
     "create-react-app",
