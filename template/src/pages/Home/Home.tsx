@@ -1,7 +1,7 @@
 const Home = () => {
     return (
         <>
-            <h1 className='d-flex justify-content-center mt-5'> Bananish Lottish </h1>
+            <h1 className='d-flex justify-content-center mt-5'> Dsh3pherd Template </h1>
         </>
     );
 };
