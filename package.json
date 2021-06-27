@@ -1,26 +1,10 @@
 {
   "name": "cra-template-dsh3pherd",
-  "version": "0.1.0",
-  "private": false,
-  "main": "template.json",
-  "description": "A quick start Create React App template with React-ts, basic Router, and basic Auth",
-  "keywords": [
-    "react",
-    "create-react-app",
-    "cra-template",
-    "template",
-    "eslint",
-    "react-router",
-    "react-router-dom",
-    "typescript"
-  ],
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/A-Sh3pherd/cra-template-dsh3pherd",
-    "directory": "/"
-  },
-  "bugs": {
-    "url": "https://github.com/A-Sh3pherd/cra-template-dsh3pherd/issues"
+    "directory": "template"
   },
   "devDependencies": {
     "@types/bootstrap": "^5.0.16",
@@ -45,33 +29,23 @@
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2"
   },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "files": [
     "template",
     "template.json"
   ],
-  "author": "dsh3pherd."
+  "engines": {
+    "node": ">=10"
+  }
 }
