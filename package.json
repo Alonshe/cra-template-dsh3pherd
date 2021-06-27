@@ -1,9 +1,9 @@
 {
   "name": "cra-template-dsh3pherd",
   "version": "0.1.0",
+  "private": false,
   "main": "template.json",
   "description": "A quick start Create React App template with React-ts, basic Router, and basic Auth",
-  "license": "MIT",
   "keywords": [
     "react",
     "create-react-app",
@@ -21,6 +21,35 @@
   },
   "bugs": {
     "url": "https://github.com/A-Sh3pherd/cra-template-dsh3pherd/issues"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.0.16",
+    "@types/react-bootstrap": "^0.32.25"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/node-sass": "^4.11.1",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-router-dom": "^5.1.7",
+    "bootstrap": "^5.0.2",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
